@@ -1,0 +1,11 @@
+D:\My Projects\Visual Studio\NetRadio\bin\Debug\Playlist.xml
+D:\My Projects\Visual Studio\NetRadio\bin\Debug\NetRadio.exe
+D:\My Projects\Visual Studio\NetRadio\bin\Debug\NetRadio.pdb
+D:\My Projects\Visual Studio\NetRadio\obj\Debug\NetRadio.csprojResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\NetRadio\obj\Debug\Simple_NetRadio.NetRadio.resources
+D:\My Projects\Visual Studio\NetRadio\obj\Debug\NetRadio.csproj.GenerateResource.Cache
+D:\My Projects\Visual Studio\NetRadio\obj\Debug\NetRadio.exe
+D:\My Projects\Visual Studio\NetRadio\obj\Debug\NetRadio.pdb
+D:\My Projects\Visual Studio\NetRadio\bin\Debug\bass.dll
+D:\My Projects\Visual Studio\NetRadio\bin\Debug\Bass.Net.dll
+D:\My Projects\Visual Studio\NetRadio\bin\Debug\basswma.dll
